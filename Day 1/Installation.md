@@ -5,16 +5,17 @@ Download Power BI Desktop
 
 2. **Choose Your Preferred Method**:
    - **Microsoft Store**: Recommended for automatic updates.
-     - Click [**"Download from the Microsoft Store"**](https://www.microsoft.com/en-us/power-bi-desktop).
+     - Click [**"Download from the Microsoft Store"**](https://apps.microsoft.com/detail/9NTXR16HNW1T?hl=en-us&gl=IN&ocid=pdpshare)
    - **Standalone Installer**: Download a `.msi` installer.
      - Click [**"Advanced Download Options"**](https://www.microsoft.com/en-us/download/details.aspx?id=58494) and choose the installer.
 
 ### Step 3: Install Power BI Desktop
 
 #### Using the Microsoft Store:
-1. Click the **"Get"** button on the store page.
-2. The app will download and install automatically.
-3. Open Power BI Desktop from the Start menu.
+1. Search PowerBI in Microsoft Store App
+2. Click the **"Get"** button on the store page.
+3. The app will download and install automatically.
+4. Open Power BI Desktop from the Start menu.
 
 #### Using the Standalone Installer:
 1. Run the downloaded `.msi` file.
