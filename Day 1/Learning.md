@@ -13,3 +13,6 @@
 
 ### 4. Takeaways:
 - Power BI Desktop is easy to install and very intuitive.
+
+### 5. Day 1 Report 
+- Created Day 1 repot acess it from Day 1 Folder 
